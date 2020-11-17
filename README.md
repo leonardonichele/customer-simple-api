@@ -17,7 +17,7 @@
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/leonardonichele/customer-simple-api
+git clone https://github.com/leonardonichele/customer-simple-api.git
 cd customer-simple-api
 ```
 
