@@ -1,0 +1,42 @@
+{
+    "customerData": {
+      "data": [
+        {
+          "id": "5da9ea674234635bdff45c02",
+          "name": "Cliente 01",
+          "parentId": "5da9ea6732123433432",
+          "birthDate": "1990-08-23T03:00:00Z",
+          "cellphone": "(51)(111111111)",
+          "phone": "(51)11111111",
+          "email": "email@email.com.br",
+          "occupation": "Engenheiro",
+          "state": "RS",
+          "createdAt": "2019-10-18T16:37:58.979Z"
+        },
+        {
+          "id": "1234435543",
+          "name": "Cliente 02",
+          "parentId": "478354353654",
+          "birthDate": "1989-10-23T03:00:00Z",
+          "cellphone": "(51)(11111111)",
+          "phone": "(51)11111111",
+          "email": "email@email.com.br",
+          "occupation": "Analista Técnico",
+          "state": "RS",
+          "createdAt": "2019-10-18T16:37:58.979Z"
+        },
+        {
+          "id": "1234435543",
+          "name": "Cliente 03",
+          "parentId": "478354353654",
+          "birthDate": "1989-10-23T03:00:00Z",
+          "cellphone": "(51)(11111111)",
+          "phone": "(51)11111111",
+          "email": "email@email.com.br",
+          "occupation": "Desenvolvedor Senior",
+          "state": "RS",
+          "createdAt": "2019-10-18T16:37:58.979Z"
+        }
+      ]
+    }
+  }
