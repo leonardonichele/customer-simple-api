@@ -1,4 +1,7 @@
-## A simple node.js customer data API
+## LigosBank - Project
+
+Fake virtual bank with own payment gateways.
+Based in repos: Customer-Simple-API - a simple node.js customer data API
 
 ## Requirements
 
@@ -31,6 +34,8 @@ To start the express server, run the following
 npm start
 ```
 
+## Routes
+
 Open [http://localhost:8080/api/routes/customerWallets](http://localhost:8080/api/routes/customerWallets) and take a look around.
 
-## 2020 - Leonardo da Silva Nichele
+## 2022 - Leonardo da Silva Nichele
